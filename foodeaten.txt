@@ -1,0 +1,11 @@
+Food Eaten Today
+BreakFast
+Avacado(144.3)
+Banana(110.6)
+Lunch
+Cat fish(108.9)
+Dinner
+Chicken leg(383.6)
+Wheat flour(320.2)
+Snack
+Grapes(60.7)
